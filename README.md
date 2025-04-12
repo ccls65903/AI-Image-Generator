@@ -2,7 +2,19 @@
 
 ArtifAI is a modern web application that allows users to generate, share, and explore AI-generated images. Built with React and Node.js, it leverages the power of Stable Diffusion for image generation and Cloudinary for image storage.
 
-![ArtifAI Banner](client/public/logo192.png)
+## 📸 Screenshots
+
+### Home Page - Community Gallery
+![Community Gallery](screenshots/home.png)
+*Explore AI-generated artwork shared by the community*
+
+### Image Generation Interface
+![Image Generation](screenshots/create.png)
+*Create your own AI-generated artwork with detailed prompts*
+
+### Generation Process
+![Generation Process](screenshots/generating.png)
+*Real-time image generation with loading state*
 
 ## ✨ Features
 
