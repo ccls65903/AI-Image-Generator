@@ -1,0 +1,108 @@
+# ArtifAI - AI Image Generation Platform
+
+ArtifAI is a modern web application that allows users to generate, share, and explore AI-generated images. Built with React and Node.js, it leverages the power of Stable Diffusion for image generation and Cloudinary for image storage.
+
+![ArtifAI Banner](client/public/logo192.png)
+
+## ✨ Features
+
+- 🎨 AI-powered image generation using Stable Diffusion
+- 🖼️ Community image gallery
+- 🔍 Search functionality for prompts and authors
+- 💾 Cloud storage integration with Cloudinary
+- 📱 Responsive design for all devices
+- 🌓 Dark theme interface
+
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- Styled Components
+- Material-UI Components
+- React Router
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Cloudinary
+- Hugging Face API (Stable Diffusion)
+
+## 🛠️ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/artifai.git
+cd artifai
+```
+
+2. Install dependencies for both frontend and backend:
+```bash
+# Install backend dependencies
+cd server
+npm install
+
+# Install frontend dependencies
+cd ../client
+npm install
+```
+
+3. Set up environment variables:
+
+Create a `.env` file in the server directory with the following:
+```env
+MONGODB_URL=your_mongodb_connection_string
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+HUGGING_FACE_API_KEY=your_hugging_face_api_key
+```
+
+4. Start the development servers:
+
+For backend:
+```bash
+cd server
+npm start
+```
+
+For frontend:
+```bash
+cd client
+npm start
+```
+
+## 📝 Usage
+
+1. Visit `http://localhost:3000` in your browser
+2. Click "Create new post" to generate an image
+3. Enter your prompt and click "Generate"
+4. Once satisfied with the generated image, fill in the details and share
+5. Explore other community-generated images in the gallery
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- [Hugging Face](https://huggingface.co/) for their Stable Diffusion API
+- [Cloudinary](https://cloudinary.com/) for image hosting
+- [MongoDB](https://www.mongodb.com/) for database services
+
+## 📧 Contact
+
+Your Name - [your.email@example.com](mailto:your.email@example.com)
+
+Project Link: [https://github.com/yourusername/artifai](https://github.com/yourusername/artifai) 
