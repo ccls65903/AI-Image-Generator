@@ -45,7 +45,7 @@ ArtifAI is a modern web application that allows users to generate, share, and ex
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/artifai.git
+git clone https://github.com/chandan-l-s-me/AI-Image-Generator
 cd artifai
 ```
 
@@ -93,19 +93,6 @@ npm start
 4. Once satisfied with the generated image, fill in the details and share
 5. Explore other community-generated images in the gallery
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -115,6 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [ccls65903@gmail.com](mailto:ccls65903@gmail.com)
 
-Project Link: [https://github.com/yourusername/artifai](https://github.com/yourusername/artifai) 
+Project Link: [https://github.com/chandan-l-s-me/AI-Image-Generator](https://github.com/chandan-l-s-me/AI-Image-Generator) 
