@@ -46,7 +46,7 @@ ArtifAI is a modern web application that allows users to generate, share, and ex
 1. Clone the repository:
 ```bash
 git clone https://github.com/chandan-l-s-me/AI-Image-Generator
-cd artifai
+cd AI-Image-Generator
 ```
 
 2. Install dependencies for both frontend and backend:
